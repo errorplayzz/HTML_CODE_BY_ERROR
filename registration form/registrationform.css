@@ -1,0 +1,23 @@
+*{
+color: white;
+}
+div{
+    background-color: rgb(175, 0, 175);
+   border: solid 5px black;
+}
+#Address{
+    height: 100px;
+    width: 250px;
+}
+input{
+    color: black;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}
+h1{
+    color: rgb(132, 0, 255);
+    font-size: 60px;
+    text-align: center;
+}
